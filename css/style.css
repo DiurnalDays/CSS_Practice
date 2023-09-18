@@ -4,7 +4,7 @@
     line-height:2;
 }
 body{
-    font-family:Arial, Verdana, sans-serif;
+    font-family:Arial, Verdana;
     background-color: #000000;
     color:#FFFFFF;
     margin-top:20px;
@@ -44,7 +44,7 @@ div{
     border-bottom:2px solid #FFFFFF;
     border-left:5px solid #FFFFFF;
     border-right:none;
-    border-top:bottom;
+    border-top:none;
 }
 .blue{
     background:#0000FF;
@@ -86,4 +86,4 @@ text-align:right;
 padding-top:15px;
 padding-right:15px;
 padding-bottom:15px;
-padding-left:none;}
+padding-left:0px;}
